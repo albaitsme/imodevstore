@@ -1,0 +1,6 @@
+{
+  "name": "IMO STORE",
+  "description": "Platform top-up Robux via Gamepass, Login, dan Username dengan verifikasi akun langsung, kalkulator pajak Gamepass 30%, dan pelacakan pesanan tanpa login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
